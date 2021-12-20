@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/github.io/multitimer/static/css/main.d4c05a99.chunk.css",
-    "main.js": "/github.io/multitimer/static/js/main.e6f5ae16.chunk.js",
-    "main.js.map": "/github.io/multitimer/static/js/main.e6f5ae16.chunk.js.map",
-    "runtime-main.js": "/github.io/multitimer/static/js/runtime-main.fdb73b57.js",
-    "runtime-main.js.map": "/github.io/multitimer/static/js/runtime-main.fdb73b57.js.map",
-    "static/js/2.8603ab2c.chunk.js": "/github.io/multitimer/static/js/2.8603ab2c.chunk.js",
-    "static/js/2.8603ab2c.chunk.js.map": "/github.io/multitimer/static/js/2.8603ab2c.chunk.js.map",
-    "static/js/3.5eeab617.chunk.js": "/github.io/multitimer/static/js/3.5eeab617.chunk.js",
-    "static/js/3.5eeab617.chunk.js.map": "/github.io/multitimer/static/js/3.5eeab617.chunk.js.map",
-    "index.html": "/github.io/multitimer/index.html",
-    "static/css/main.d4c05a99.chunk.css.map": "/github.io/multitimer/static/css/main.d4c05a99.chunk.css.map",
-    "static/js/2.8603ab2c.chunk.js.LICENSE.txt": "/github.io/multitimer/static/js/2.8603ab2c.chunk.js.LICENSE.txt",
-    "static/js/3.5eeab617.chunk.js.LICENSE.txt": "/github.io/multitimer/static/js/3.5eeab617.chunk.js.LICENSE.txt",
-    "static/media/bell.c22fa7b0.wav": "/github.io/multitimer/static/media/bell.c22fa7b0.wav"
+    "main.css": "/multitimer/static/css/main.d4c05a99.chunk.css",
+    "main.js": "/multitimer/static/js/main.e6f5ae16.chunk.js",
+    "main.js.map": "/multitimer/static/js/main.e6f5ae16.chunk.js.map",
+    "runtime-main.js": "/multitimer/static/js/runtime-main.5e2b8a9b.js",
+    "runtime-main.js.map": "/multitimer/static/js/runtime-main.5e2b8a9b.js.map",
+    "static/js/2.8603ab2c.chunk.js": "/multitimer/static/js/2.8603ab2c.chunk.js",
+    "static/js/2.8603ab2c.chunk.js.map": "/multitimer/static/js/2.8603ab2c.chunk.js.map",
+    "static/js/3.5eeab617.chunk.js": "/multitimer/static/js/3.5eeab617.chunk.js",
+    "static/js/3.5eeab617.chunk.js.map": "/multitimer/static/js/3.5eeab617.chunk.js.map",
+    "index.html": "/multitimer/index.html",
+    "static/css/main.d4c05a99.chunk.css.map": "/multitimer/static/css/main.d4c05a99.chunk.css.map",
+    "static/js/2.8603ab2c.chunk.js.LICENSE.txt": "/multitimer/static/js/2.8603ab2c.chunk.js.LICENSE.txt",
+    "static/js/3.5eeab617.chunk.js.LICENSE.txt": "/multitimer/static/js/3.5eeab617.chunk.js.LICENSE.txt",
+    "static/media/bell.c22fa7b0.wav": "/multitimer/static/media/bell.c22fa7b0.wav"
   },
   "entrypoints": [
-    "static/js/runtime-main.fdb73b57.js",
+    "static/js/runtime-main.5e2b8a9b.js",
     "static/js/2.8603ab2c.chunk.js",
     "static/css/main.d4c05a99.chunk.css",
     "static/js/main.e6f5ae16.chunk.js"
